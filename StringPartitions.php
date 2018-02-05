@@ -117,7 +117,7 @@ function splitString($str, $partition)
  * @param integer $min
  *
  * @return array
- * @example: splitString("asdfqwerzx", [4, 6])
+ * @example: processString("asdfqwerzx", 4)
  **/
 function processString($str, $min)
 {
